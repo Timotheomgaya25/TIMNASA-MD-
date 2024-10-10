@@ -9,7 +9,7 @@ i</h1>
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4">
- <img alt="𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍1" height="300" src="https://i.imgur.com/lfqWcEv.jpeg">
+ <img alt="𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍1" height="300" src=" https://i.imgur.com/VA00Qbd.jpeg ">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
