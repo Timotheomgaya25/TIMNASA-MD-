@@ -76,12 +76,12 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
  𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸
  
 
-<a href="https://Timnsaganicoder-b959e1c1d915.herokuapp.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://andbad-qr.onrender.com/-b959e1c1d915.herokuapp.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
  
-<a href="https://Timnasaganicoder-b959e1c1d915.herokuapp.com"><img title="Tap Here Open Session Site" src=".https://andbad-qr.onrender.com//badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-[`app2`](https://andbad-qr.onrender.com/) 
+<a href="https://andbad-qr.onrender.com/-b959e1c1d915.herokuapp.com"><img title="Tap Here Open Session Site" src=".https://andbad-qr.onrender.com//badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+[`app2`](https://i.imgur.com/8ldvQG7.jpeg) 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
