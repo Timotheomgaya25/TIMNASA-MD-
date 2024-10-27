@@ -1,30 +1,23 @@
-8i</h1> 
-<p align="center">𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟡
+</h1> 
+<p align="center">𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+𝕋𝕀𝕄ℕ𝔸𝕊𝔸+MD+BOT+CREATED+BY+𝕋𝕀𝕄ℕ𝔸𝕊𝔸+TZ+SON+Fork+Me+Please" alt="Typing SVG" /></a>
- </p>
- 
-  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
- <a href="https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4">
- <img alt="𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍1" height="300" src=" https://i.imgur.com/VA00Qbd.jpeg ">
- [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝕨𝕖𝕝𝕔𝕠𝕞𝕖'𝕥𝕠+𝕥𝕚𝕞𝕟𝕒𝕤𝕒+𝕞𝕕+𝕚𝕤+𝕥𝕖𝕔𝕙+𝕕𝕖𝕥𝕖𝕔𝕥𝕖𝕕.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝘄𝗲𝗹𝗰𝗼𝗺𝗲'𝘁𝗼+𝘁𝗶𝗺𝗻𝗮𝘀𝗮+𝗺𝗱+𝗶𝘀+𝘁𝗲𝗰𝗵+𝗱𝗲𝘁𝗲𝗰𝘁𝗲𝗱.&𝕙𝕖𝕒𝕣𝕥;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f">
+ <img alt="TIMNASA MD 𝕍𝟟" height="300" src="https://files.catbox.moe/xosv2l.jpg">
   
 </h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍1</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
+<p align=https://files.catbox.moe/qpm3vh.mp4"center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>TIMNASA MD 𝕍𝟟</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
 
 </p>
-  <p align="center">
-<a href="https://github.com/TIMNASA/TIMNASA><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
-<a href="https://github.com/Fred1e/lucky_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/lucky_md?&style=social"></a>
-<a href="https://github.com/TIMNASA/TIMNASA"><img title="Forks" src="https://github.com/TIMNASA3/TIMNASA"></a>
-<a href="https://github.com/TIMNASA3/TIMNASA-MD"><img title="Watching" src="https://github.com/TIMNASATZ3/𝕋𝕀𝕄ℕ𝔸𝕊𝔸-MD"></a>
+  <p align="https://files.catbox.moe/oqpi5b.jpgcenter">
+<a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
+<a href="https://github.com/Fred1e/Timnasa_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/Timnasa_md?&style=social"></a>
+<a href="https://github.com/Fred1e/Timnasa_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/Timnasa_md?style=social"></a>
+<a href="https://github.com/Fred1e/Timnasa_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/Timnasa_md?label=Watching&style=social"></a>
 
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
-
+ <img alt="TIMNASA MD 𝕍𝟟" height="300" src="https://files.catbox.moe/oqpi5b.jpg">
+  
 </a>
   <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
@@ -33,7 +26,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/𝕋𝕀𝕄ℕ𝔸𝕊𝔸/TIMNASA"><b>𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/Fred1e/Timnasa_md"><b>𝕋𝕀𝕄ℕ𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -41,50 +34,54 @@
 </p>
 
 
+---❒❒❒❒❒❒ *❂̶~💥𝗧𝗜𝗠𝗡𝗔𝗦𝗔💥~ ̶𝙈̶𝘿̶ ̶𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽̶𝙤̶𝙩̶❂*❒❒❒❒ ╭─────❒
+❒ *: welcome online:*
+❒ *`bot online App`*  
+❒ *; this group by MD test bot;*
+❒       
+❒ *`tell amd how to get bot`*
+❒ *"use"* *invite .menu .repo*
+❒*`songs💬 video 💻play`* ❒❂❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❂
+❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❂ 
+❒╭────❂*`links`
+❒*`no links no porno`*
+❒ *`suppot bot only`*
+❒╰═════💥𝗽𝗼𝘄𝗲𝗿 𝗯𝘆 𝘁𝗶𝗺𝗻𝗮𝘀𝗮 𝗺𝗱💥════════❂ 
+❒       ♡              ⎙               ⌲ 
+❒ *`react`* *`save`*  *`share`*
+❒
+❒*❂̶𝘽̶𝙔̶ ̶𝙈̶𝘿̶ ̶𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽̶𝙤̶𝙩̶❂*
+██████╗░░█████╗░████████╗ ██╔══██╗██╔══██╗╚══██╔══╝ ██████╦╝██║░░██║░░░██║░░░ ██╔══██╗██║░░██║░░░██║░░░ ██████╦╝╚█████╔╝░░░██║░
+*❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒*
 
-    
- 
- 
-
-
-
----
 
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟡
+## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-ғᴏʀᴋ TIMNASA MD V9 ʀᴇᴘᴏ
+ғᴏʀᴋ 𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗠𝗗 𝗩𝟳 ʀᴇᴘᴏ
 
 
-<a href="https://github.com/TIMNASATZ3/TIMNASA-MD"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Fred1e/TIMNASA_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## 𝟚.𝕊𝔼ℂ𝕆ℕ𝔻 𝕊𝕋𝔼ℙ 
 
 
- 𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸
+ 𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻
  
 
-<a href=" https://i.imgur.com/VA00Qbd.jpeg .herokuapp.com"><img title="Tap Here Open Session Site" src="  https://i.imgur.com/VA00Qbd.jpegbadge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://Timnasa-md-qycm.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
  
-<a href="https://i.imgur.com/VA00Qbd.jpeg .herokuapp.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-[`app2`](https://lucky-md-qycm.onrender.com) 
+<a href="https://andbad-qr.onrender.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## 𝟛.𝕋ℍ𝕀ℝ𝔻 𝕊𝕋𝔼ℙ 
 **1. ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**
@@ -94,48 +91,49 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 **2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**       
 <br>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/𝕋𝕀𝕄ℕ𝔸𝕊𝔸/𝕋𝕀𝕄ℕ𝔸𝕊𝔸-MD/tree/main">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Timnasa_Md/tree/main">
  <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-black?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
 ##
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗧𝗵𝗶𝘀+𝘀𝗲𝗰𝘁𝗶𝗼𝗻+𝘄𝗮𝘀+𝘀𝘂𝗽𝗽𝗼𝗿𝘁+𝗮𝗹𝗹+𝗺𝗲𝗱𝗶𝗮)](https://git.io/typing-svg)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 𝕆ℕ 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼 ℂ𝕆ℕ𝕋𝔸ℂ𝕋
+<a href="https://wa.me/message/J2ZL2GNK4GIUA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255784766591" height="60" width="70" /></a>
 
-𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼
-<a href="https://wa.me/message/UTQ7TX2M7TDYM1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255692540143" height="60" width="70" /></a>
+𝕎𝔸𝕋𝕊𝔸ℙℙ 𝔾ℝ𝕆𝕌ℙ 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻
+<a href="https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
+𝕎𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻
+<a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaihcQv84Om8LP59fO3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-𝕎𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃
-<a href="Hello 𝕋𝕀𝕄ℕ𝔸𝕊𝔸, here is the group link of 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗯𝗼𝘁.𝗰𝗼𝗺:
-
-Click Here To Join: https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU /Ia4V8wnwCIjLYaVI3FVHb4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
+𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻👾
+<a hre >=?si=SiM1RUNpCeoSn1AV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freditech" height="60" width="70" /></a>
 
 
 ## License
+🌍around
+The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟 is released under the [MIT License](https://opensource.org/licensesMIT). 
+<a><img src='maneno+mengi+'/></a>
 
-The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟡 made in Tanzania by  𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕋𝔼ℂℍ
+🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 TIMNASA🍀_MD 🌟
 
-
-
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 𝕋𝕀𝕄ℕ𝔸𝕊𝔸🍀_𝕄𝔻 🌟
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕋𝔼ℂℍ**](https://github.com/𝕋𝕀𝕄ℕ𝔸𝕊𝔸/𝕋𝕀𝕄ℕ𝔸𝕊𝔸-𝕄𝔻)
+- [**𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗧𝗘𝗖𝗛**](𝟮𝟱𝟱𝟳𝟴𝟰𝟳𝟲𝟲𝟱𝟵𝟭)
  
-★THANK YOU GOD FOR THAT MOMENT🙏. ©
 
-     
 
+- [**ℙ𝕆𝕎𝔼ℝ 𝔹𝕐 𝕄𝔼**](𝟮𝟱𝟱𝟳𝟴𝟰𝟳𝟲𝟲𝟱𝟵𝟭)
+ 
+
+
+
+ ##<'>=i°•°•°•°|°|°|°•°•°|°|°|°|°|°|°|°|°|°|°|°|°|°|°|    
+°|°|°|°|°`°`°`°`°`°`°|°|°|°`°`°`°`°|°|°|°`°`°`°`.•>•>|>
 
